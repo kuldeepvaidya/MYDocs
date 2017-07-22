@@ -1,0 +1,10 @@
+Investor services as an area covers all support services which are provided to customers including securities custody services, transfer agency services, trust services, corporate actions, tax compliance, compliance assurance, financial reporting etc. These services are usually also provided as add-on features for private banking or asset management clients. 
+
+
+From a systems perspective, Investor services can be classified in to the following business areas with indicative functional areas: 
+
+Benefits Administration 
+Defined Contribution 
+Defined Benefits 
+Health and Welfare 
+Annuities

@@ -1,0 +1,15 @@
+Financial Payments can be made in multiple means: by checks, demand drafts, cards, online fund transfer etc. The proportion of payments made through traditional payment modes like checks and drafts has been slowly reducing. More payments are being made over cards and electronic transfer mechanisms. 
+
+Traditional payment systems involve banks settling transactions through clearing houses run by regional Federal Reserve entities or clearing house associations, using negotiable instruments like checks and drafts. These payment instruments like checks contain a magnetic ink (MICR) code (with information like bank name, city, branch name, account number and an external processing code) which enables routing of instruments to the correct payee bank. New payment systems like Automated Clearing House (ACH) involve exchange of electronic files between banks through a clearing house to enable paperless transactions. 
+
+Cards refer to plastic cards that can be used by the holder to make purchases or obtain cash advances. This can be either through a direct debit to a linked bank account (as in case of debit cards) or using a line of credit made available by the card-issuing financial institution (as in case of credit cards). Credit card transactions include multiple entities like the acquiring bank, issuing bank, cards associations, independent service organizations, payment gateways etc. : 
+
+
+From a systems angle, cards and payments can be classified in to the following business areas with indicative functional areas: 
+
+Application Processing: Account setup, card issuance, customer segmentation, credit scoring 
+Transaction processing: Sales, cash advances, authorizations, returns, reversals 
+Customer Care 
+Collection and Recovery 
+Merchant Processing 
+Back Office and Fulfillment 

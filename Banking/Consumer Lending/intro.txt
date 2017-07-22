@@ -1,0 +1,15 @@
+The Consumer Lending provides in-depth research on the strategic business and technological issues facing consumer credit providers to acquire and retain customers, reduce cost, manage portfolios and service customers, and manage risk. This practice is designed for the major lines of business within the consumer credit industry: credit card, debit card, emerging card-based payment vehicles, and mortgage. It also includes automobile, home equity, student, and small business lending.:
+
+
+Consumer lending covers the following issues of strategic importance: 
+Managing risk (credit and operational) : 
+Using the Internet for account origination and servicing 
+Account management and profitability (core loan origination systems, loan closing and delivery systems, and servicing systems) 
+Regulations and compliance 
+Consumer Lending can be classified in to the following business areas with indicative functional areas: 
+
+Auto Loans: 
+Account opening, processing, billing, collections and recovery 
+Mortgages :
+Origination, Documents management, Automated Underwriting, Automated valuation, Collections and recovery 
+Educational Loans 
